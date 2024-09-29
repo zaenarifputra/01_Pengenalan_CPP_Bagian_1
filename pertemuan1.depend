@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1727319594 source:c:\users\lenovo\onedrive - telkom university\documents\all matkul\strukturdata\pertemuan1\src\p2.cpp
+	"p2.h"
+
+1727319593 c:\users\lenovo\onedrive - telkom university\documents\all matkul\strukturdata\pertemuan1\include\p2.h
+
+1727324130 source:c:\users\lenovo\onedrive - telkom university\documents\all matkul\strukturdata\pertemuan1\main.cpp
+	<iostream>
+	<conio.h>
+
